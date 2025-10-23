@@ -81,7 +81,7 @@ Promote effortless tracking features; de-emphasize manual logging.
 ## 📈 Visualizations
 
 ### The Sunday Slump
-![Sunday Slump Chart](link-to-image-if-you-upload)
+(./Average Daily Steps.png)
 
 Activity drops 16% on Sundays compared to weekdays, presenting a key re-engagement opportunity.
 
