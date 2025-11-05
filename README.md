@@ -43,19 +43,6 @@ Marketing analysis of FitBit user data to identify growth opportunities for Bell
 
 ---
 
-## 📁 Project Structure
-```
-bellabeat-case-study/
-├── README.md                          # This file
-├── Bellabeat Case Study.pptx           # Final presentation
-├── bellabeats_case_study.R            # R analysis script
-├── daily_activity_cleaned.csv         # Cleaned activity data
-├── sleep_day_cleaned.csv              # Cleaned sleep data
-└── visualizations/                    # Charts and graphs
-```
-
----
-
 ## 🎯 Business Recommendations
 
 ### 1. Embrace "Balance & Recovery" Narrative
